@@ -34,17 +34,26 @@ Stefan's code for [Andrew Ng's Machine Learning class @ Stanford](https://class.
 * XVII. Large Scale Machine Learning **5 / 5**
 * XVIII. Application Example: Photo OCR **5 / 5**
 
+
+
 ##### Programming Exercises
 
-* IV. Linear Regression with Multiple Variables 
-* VII. Regularization 
-* VIII. Neural Networks: Representation
-* IX. Neural Networks: Learning
-* X. Advice for Applying Machine Learning
-* XII. Support Vector Machines 
-* XIV. Dimensionality Reduction
-* XVI. Recommender Systems
+* IV. Linear Regression with Multiple Variables **150 / 100**
+* VII. Regularization **100 / 100**
+* VIII. Neural Networks: Representation **100 / 100**
+* IX. Neural Networks: Learning **100 / 100**
+* X. Advice for Applying Machine Learning **100 / 100**
+* XII. Support Vector Machines **100 / 100**
+* XIV. Dimensionality Reduction **80 / 100**
+* XVI. Recommender Systems **100 / 100**
 
+##### Result
 
+* Review Questions:  76 / 80 = 95%
+* Programming Exercises: 700 / 700 = 100%
+* **Final Score: 98%**
 
+*"At the end of the course, your two lowest review question scores will be dropped, along with your one lowest programming exercise score. Your total score on the programming exercises and review questions will be separately summed up and scaled to 100. The review questions make up 1/3 of your final score, and the programming exercises make up 2/3 of your final score.
+
+To receive a statement of accomplishment, your final score must be at least 80% of the maximum possible score."*
 
