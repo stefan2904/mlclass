@@ -53,7 +53,9 @@ Stefan's code for [Andrew Ng's Machine Learning class @ Stanford](https://class.
 * Programming Exercises: 700 / 700 = 100%
 * **Final Score: 98%**
 
-*"At the end of the course, your two lowest review question scores will be dropped, along with your one lowest programming exercise score. Your total score on the programming exercises and review questions will be separately summed up and scaled to 100. The review questions make up 1/3 of your final score, and the programming exercises make up 2/3 of your final score.
+###### Grading Policy
 
-To receive a statement of accomplishment, your final score must be at least 80% of the maximum possible score."*
+*"At the end of the course, your two lowest review question scores will be dropped, along with your one lowest programming exercise score. Your total score on the programming exercises and review questions will be separately summed up and scaled to 100. The review questions make up 1/3 of your final score, and the programming exercises make up 2/3 of your final score.*
+
+*To receive a statement of accomplishment, your final score must be at least 80% of the maximum possible score."*
 
